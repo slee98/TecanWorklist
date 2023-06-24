@@ -1,4 +1,4 @@
-# Genterate Tecan Worklist
+# Generate Tecan Worklist
 
 1. Get the initial DNA/RNA concentration from raw data measured by nanodrop 
 2. Calculate the transfer of sample and diluent to achieve the target concentraiton
