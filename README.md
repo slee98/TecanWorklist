@@ -1,5 +1,8 @@
 # Genterate Tecan Worklist
 
+Get the initial DNA/RNA concentration from raw data measured by nanodrop Calculate the transfer of sample and diluent Generate the tecan worklist based on the calculation
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
