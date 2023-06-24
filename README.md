@@ -4,19 +4,19 @@
 2. Calculate the transfer of sample and diluent to achieve the target concentraiton
 3. Generate the tecan worklist based on the calculation
 
-#Tecan Worklist Format
-A;PlateType;Position;Volume;LiquidClass;TipType;
-A;PlateType;Position;Volume;LiquidClass;TipType;
+# Tecan Worklist Format
+- A;PlateType;Position;Volume;LiquidClass;TipType;
+- A;PlateType;Position;Volume;LiquidClass;TipType;
 
 Tip Code 
-First Channel: 1
-Second Channel: 2
-Third Channel: 4
-Fourth Channel: 8
-Fifth Channel: 16
-Sixth Channel: 32
-Seventh Channel: 64
-Eight Channel: 128
+1. Channel: 1
+2. Channel: 2
+3. Channel: 4
+4. Channel: 8
+5. Channel: 16
+6. Channel: 32
+7. Channel: 64
+8. Channel: 128
 
 
 # Getting Started with Create React App
